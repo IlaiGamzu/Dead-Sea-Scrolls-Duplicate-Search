@@ -70,7 +70,7 @@ Note: The project code is in a private repository. To access the code, please em
 
 - However, upon reviewing the images, it was evident that the model sometimes misidentified unclear letters as empty scrolls.
  
-1.![image](https://github.com/IlaiGamzu/Dead-Sea-Scrolls-Duplicate-Search/assets/135164356/ed4de9fc-4059-428a-a0f7-ef49d5605f7e)
+1. ![image](https://github.com/IlaiGamzu/Dead-Sea-Scrolls-Duplicate-Search/assets/135164356/887c1d5a-f792-4c45-8b36-af67ee4759e5)
 
 2. ![image](https://github.com/IlaiGamzu/Dead-Sea-Scrolls-Duplicate-Search/assets/135164356/5229ae2d-03b9-4ca5-bccc-a81407d3984d)
 
