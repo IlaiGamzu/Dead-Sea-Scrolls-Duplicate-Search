@@ -6,7 +6,7 @@ This project focuses on finding duplicate Dead Sea Scrolls by their content. Eac
 
 # Notes before start: 
 1. The project code is in a private repository. To access the code, please email me for permission at: Ilai.gamzu13@gmail.com or in my linkdin https://www.linkedin.com/in/ilai-gam-zu-letova-a78915245.
-2. The data-set does not uploaded, beacise it is belong to my collage.
+2. The data-set does not uploaded, because it is belong to my collage.
 
 # How to Solve the Problem?
 - Initially, I use YOLOv8 to detect each scroll.
